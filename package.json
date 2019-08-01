@@ -1,0 +1,23 @@
+{
+  "name": "Portfolio-Website-With-Sass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gammmaken/Portfolio-Website-With-Sass.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gammmaken/Portfolio-Website-With-Sass/issues"
+  },
+  "homepage": "https://github.com/gammmaken/Portfolio-Website-With-Sass#readme",
+  "dependencies": {
+    "node-sass": "^4.12.0"
+  }
+}
